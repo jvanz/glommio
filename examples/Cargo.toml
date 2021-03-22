@@ -58,3 +58,7 @@ path = "hyper.rs"
 [[example]]
 name = "gate"
 path = "gate.rs"
+
+[[example]]
+name = "multi_executors"
+path = "multi_executors.rs"
